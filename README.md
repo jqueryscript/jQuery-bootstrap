@@ -34,4 +34,4 @@ Responsive jQuery Bootstrap 4 News Box plugin
 <p>Please, check the demo.html</p>
 
 <h2>Live Demo</h2>
-<a href="http://www.jqueryscript.net/slider/Responsive-jQuery-News-Ticker-Plugin-with-Bootstrap-3-Bootstrap-News-Box.html">Demo</a>
+<a href="https://www.jqueryscript.net/demo/Responsive-jQuery-News-Ticker-Plugin-with-Bootstrap-3-Bootstrap-News-Box">Demo</a>
